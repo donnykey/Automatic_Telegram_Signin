@@ -2,9 +2,9 @@
 # Automatic_Telegram_Signin    电报自动签到
 
 
-![tele_qd_script](./media/tele_qd_script.mp4)
+![tele_qd_script](./tree/main/media/tele_qd_script.mp4)
 
-![auto_code](./media/auto_code.mp4)
+![auto_code](./tree/main/media/auto_code.mp4)
 # 准备
 在 https://my.telegram.org/auth 申请API，需要 api_id与api_hash
 
